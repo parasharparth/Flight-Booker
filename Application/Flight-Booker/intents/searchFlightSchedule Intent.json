@@ -1,0 +1,145 @@
+{
+  "id": "c2926d75-df24-440c-83c2-15e0daf9e0f2",
+  "name": "searchFlightSchedule Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bbf9a549-33b0-46de-9f43-70584d0aefcb",
+          "name": "DepartureCity",
+          "required": true,
+          "dataType": "@sys.geo-city-us",
+          "value": "$DepartureCity",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Departure City name is required"
+            },
+            {
+              "lang": "en",
+              "value": "Departure city is required"
+            },
+            {
+              "lang": "en",
+              "value": "Departure city is mandatory"
+            },
+            {
+              "lang": "en",
+              "value": "Departure City is necessary"
+            },
+            {
+              "lang": "en",
+              "value": "Departure City missing"
+            },
+            {
+              "lang": "en",
+              "value": "Provide a departure city"
+            },
+            {
+              "lang": "en",
+              "value": "Kindly provide a departure city name"
+            },
+            {
+              "lang": "en",
+              "value": "Departure City - missing"
+            },
+            {
+              "lang": "en",
+              "value": "Mandatory information for departure city is missing"
+            },
+            {
+              "lang": "en",
+              "value": "Missing information for departure city"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bc990289-0c4f-47c1-b059-23a5f530413f",
+          "name": "ArrivalCity",
+          "required": true,
+          "dataType": "@sys.geo-city-us",
+          "value": "$ArrivalCity",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Arrival City is required"
+            },
+            {
+              "lang": "en",
+              "value": "Arrival city is missing"
+            },
+            {
+              "lang": "en",
+              "value": "Arrival city is mandatory"
+            },
+            {
+              "lang": "en",
+              "value": "Arrival City - missing"
+            },
+            {
+              "lang": "en",
+              "value": "Missing information on the arrival city"
+            },
+            {
+              "lang": "en",
+              "value": "There is missing information on the arrival city"
+            },
+            {
+              "lang": "en",
+              "value": "Arrival City is a mandatory term"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "99a49284-71cf-48a1-b759-969914c3b265",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

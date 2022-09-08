@@ -1,0 +1,32 @@
+[
+  {
+    "value": "business",
+    "synonyms": [
+      "Business",
+      "BUSINESS",
+      "BUS",
+      "bus",
+      "business"
+    ]
+  },
+  {
+    "value": "economy",
+    "synonyms": [
+      "Economy",
+      "ECONOMY",
+      "ECO",
+      "eco",
+      "economy"
+    ]
+  },
+  {
+    "value": "first",
+    "synonyms": [
+      "first",
+      "First",
+      "FIRST",
+      "FIR",
+      "fir"
+    ]
+  }
+]

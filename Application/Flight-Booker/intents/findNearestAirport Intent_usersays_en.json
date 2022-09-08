@@ -1,0 +1,212 @@
+[
+  {
+    "id": "91a424ac-f212-4023-8d01-2b8666011fa4",
+    "data": [
+      {
+        "text": "Where are nearest airports for booking a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5d8e997-c57c-490d-a1e5-7a7e99c59126",
+    "data": [
+      {
+        "text": "Where can I find airport in ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "333a27f0-032f-4b37-a891-448d31e02f28",
+    "data": [
+      {
+        "text": "Airport location in ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1aee1256-45ee-41f5-985b-ec18617c30d3",
+    "data": [
+      {
+        "text": "List all the airports in ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "372aeea3-a151-46cc-96d0-5376389e1fa2",
+    "data": [
+      {
+        "text": "Where is the airport for ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f3460a7-d53a-40ed-b0db-dfb26cf3e1f3",
+    "data": [
+      {
+        "text": "To book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " where is the airport located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec422e6c-e0eb-4be0-9b15-f070e93b1ec1",
+    "data": [
+      {
+        "text": "To leave ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " where is the nearest airport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b93b7f10-f90c-4c6d-83aa-6ca43ce64732",
+    "data": [
+      {
+        "text": "To arrive in ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " where is the nearest airport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f54dbbf-c408-4d84-b417-5f6be583ea67",
+    "data": [
+      {
+        "text": "Does ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " have a airport",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77664f5a-20b4-4561-9b44-0a679fb8457e",
+    "data": [
+      {
+        "text": "What is the location of the airport in ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

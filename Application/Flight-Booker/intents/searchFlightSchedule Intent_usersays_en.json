@@ -1,0 +1,400 @@
+[
+  {
+    "id": "65d91314-34d7-42f8-a418-bc6b866aed4e",
+    "data": [
+      {
+        "text": "Can you give the flight schedule for cheapest flight leaving ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " and arriving in ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4cc600a-a9ab-4da0-8ec3-e30fa1ffcac2",
+    "data": [
+      {
+        "text": "What flight is travelling between ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff53c266-531d-4b1d-a6e5-5d73f32dabdc",
+    "data": [
+      {
+        "text": "List the cheapest leaving from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "arriving",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e734da13-5deb-46d7-ac64-c7f9257681e3",
+    "data": [
+      {
+        "text": "Departing from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " which flights are arriving in ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65f9b139-f535-4c1b-ad7a-8491d44da596",
+    "data": [
+      {
+        "text": "What is the cheapest of flights from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "823c7f16-38ba-44d5-b529-4897a49d8af9",
+    "data": [
+      {
+        "text": "Can you give me a list of flights from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b553918-ad5b-4655-aaac-9504452558e0",
+    "data": [
+      {
+        "text": "I wanted to know the flights which leave ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93ca0eb3-c943-4fce-b7e8-d54fb8f01f95",
+    "data": [
+      {
+        "text": "May I know the flights between ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa44151e-ac8d-47c3-a3bc-c3043d798316",
+    "data": [
+      {
+        "text": "Leaving ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " are there any flights for ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f332a771-275d-49a0-b527-e15b6b07b2f0",
+    "data": [
+      {
+        "text": "What are the flight which Arrive in ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,160 @@
+{
+  "id": "7197d6af-de27-448a-9302-b6f8f31c0c2a",
+  "name": "bookAFlight Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a4afb5cf-ab6b-442e-bf55-e4c58ea9436d",
+          "name": "ArrivalCity",
+          "required": true,
+          "dataType": "@sys.geo-city-us",
+          "value": "$ArrivalCity",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Kindly enter the city name"
+            },
+            {
+              "lang": "en",
+              "value": "City name is required"
+            },
+            {
+              "lang": "en",
+              "value": "City required"
+            },
+            {
+              "lang": "en",
+              "value": "city name missing"
+            },
+            {
+              "lang": "en",
+              "value": "city missing"
+            },
+            {
+              "lang": "en",
+              "value": "Oops, you have missed a city name"
+            },
+            {
+              "lang": "en",
+              "value": "city name is necessary"
+            },
+            {
+              "lang": "en",
+              "value": "city mandatory"
+            },
+            {
+              "lang": "en",
+              "value": "city name is mandatory"
+            },
+            {
+              "lang": "en",
+              "value": "Cannot move forward without city name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "05f20a1c-90d3-4baa-b2aa-2ad8f801e95a",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter the date of travel"
+            },
+            {
+              "lang": "en",
+              "value": "Provide departure date"
+            },
+            {
+              "lang": "en",
+              "value": "departure date is required"
+            },
+            {
+              "lang": "en",
+              "value": "Departure date is missing"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c2c4bca3-f825-4678-8525-217bf1f95044",
+          "name": "DepartureCity",
+          "required": true,
+          "dataType": "@sys.geo-city-us",
+          "value": "$DepartureCity",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Provide the departure city"
+            },
+            {
+              "lang": "en",
+              "value": "Departure city is missing"
+            },
+            {
+              "lang": "en",
+              "value": "Departure city is required"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fc8e0fc3-ea56-4851-91ef-3b389c220e50",
+          "name": "Class",
+          "required": false,
+          "dataType": "@class",
+          "value": "$Class",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

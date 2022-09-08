@@ -1,0 +1,462 @@
+[
+  {
+    "id": "17c7df4d-570c-4383-a3ea-258f55add703",
+    "data": [
+      {
+        "text": "I want to book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " departing on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c6930c1-2d89-4ad5-af93-17d39ac7d062",
+    "data": [
+      {
+        "text": "Book a flight for date ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "Class",
+        "meta": "@class",
+        "alias": "Class",
+        "userDefined": true
+      },
+      {
+        "text": " class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e18edf6-b2f3-47f6-aa35-771e919199c3",
+    "data": [
+      {
+        "text": "May I book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Class",
+        "meta": "@class",
+        "alias": "Class",
+        "userDefined": true
+      },
+      {
+        "text": " class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9e81467-57de-472b-b10e-3bbaec263a6b",
+    "data": [
+      {
+        "text": "Can you help me book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " with departure date of ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "489597ac-1803-450b-a1c3-946b9e041421",
+    "data": [
+      {
+        "text": "I want to book a flight leaving ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " and arriving in ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "Class",
+        "meta": "@class",
+        "alias": "Class",
+        "userDefined": true
+      },
+      {
+        "text": " class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afef4557-1c58-43ba-b4ba-c6139f06fa1f",
+    "data": [
+      {
+        "text": "I want to travel from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " by a flight on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bea5757f-dfef-435d-8f00-8edf1c113b83",
+    "data": [
+      {
+        "text": "Help me book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60bba7a7-1944-42d8-9fd0-4930f72ca69c",
+    "data": [
+      {
+        "text": "Departing ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " book a flight with arrival in ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15f8a730-7504-4ec4-878c-a7da8f9f4a0e",
+    "data": [
+      {
+        "text": "For ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "Class",
+        "meta": "@class",
+        "alias": "Class",
+        "userDefined": true
+      },
+      {
+        "text": " class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44dd82b5-15a1-4ddc-8cb7-bd333e1ca9c0",
+    "data": [
+      {
+        "text": "Book a flight departing ",
+        "userDefined": false
+      },
+      {
+        "text": "departurecity",
+        "meta": "@sys.geo-city-us",
+        "alias": "DepartureCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " and arriving in ",
+        "userDefined": false
+      },
+      {
+        "text": "arrivalcity",
+        "meta": "@sys.geo-city-us",
+        "alias": "ArrivalCity",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "Class",
+        "meta": "@class",
+        "alias": "Class",
+        "userDefined": true
+      },
+      {
+        "text": " class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "id": "4128be76-c419-4626-b9fe-917631079cae",
+  "name": "findNearestAirport Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0a6fe43b-d4ac-44c9-8aab-c3e76e0cbd93",
+          "name": "city",
+          "required": true,
+          "dataType": "@sys.geo-city-us",
+          "value": "$city",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Kindly enter a city"
+            },
+            {
+              "lang": "en",
+              "value": "City name is required"
+            },
+            {
+              "lang": "en",
+              "value": "City name is madatory"
+            },
+            {
+              "lang": "en",
+              "value": "City name is missing"
+            },
+            {
+              "lang": "en",
+              "value": "Kindly provide the missing city name"
+            },
+            {
+              "lang": "en",
+              "value": "City missing"
+            },
+            {
+              "lang": "en",
+              "value": "Information missing- city name"
+            },
+            {
+              "lang": "en",
+              "value": "city name not present"
+            },
+            {
+              "lang": "en",
+              "value": "city name required"
+            },
+            {
+              "lang": "en",
+              "value": "city - missing"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

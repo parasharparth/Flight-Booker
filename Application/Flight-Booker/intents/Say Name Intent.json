@@ -1,0 +1,76 @@
+{
+  "id": "224737e0-fd48-447d-8576-70c71ec029f4",
+  "parentId": "2568d805-9fd1-468e-aec2-f07421934fba",
+  "rootParentId": "2568d805-9fd1-468e-aec2-f07421934fba",
+  "name": "Say Name Intent",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b47ac93c-b217-4ba4-bb95-11f8aba60fb4",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I didn\u0027t get your name"
+            },
+            {
+              "lang": "en",
+              "value": "Can you repeat your name"
+            },
+            {
+              "lang": "en",
+              "value": "Please Repeat that"
+            },
+            {
+              "lang": "en",
+              "value": "Kindly repeat your name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Nice to meet you, Would you like to book a flight?",
+            "Lovely to meet you, Would you like to book a flight?",
+            "It is nice to meet you. Would you like to book a flight?",
+            "It\u0027s lovely to meet you. Would you like to book a flight?",
+            "It\u0027s great to meet you. Would you like to book a flight?",
+            "Its lovely to make you as my friend. Would you like to book a flight?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
